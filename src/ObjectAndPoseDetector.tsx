@@ -314,7 +314,7 @@ function ObjectAndPoseDetector() {
             }}
           />
           <video
-            src="/movies/Comp 1_1.mp4"
+            src="/movies/CCI.webm"
             autoPlay
             muted
             loop
